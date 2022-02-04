@@ -14,9 +14,7 @@ class MenuController extends Controller
         return view('menu/producto');
     }
 
-    public function search(){
-        return view('menu/search');
-    }
+    
 
 
 }
