@@ -1,0 +1,1 @@
+<img src="./img/logo.png" alt="" class="w-3/6 mx-auto">
